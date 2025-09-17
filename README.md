@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Harish Chintala
 
 
-Experienced QA/SDET with 4 years of expertise in web and mobile automation testing, building scalable frameworks, improving product quality through strategic test planning, and leveraging AI to optimize testing efficiency.
+QA/SDET Engineer with 4 years of experience in web, mobile, and device automation testing. Skilled in building scalable test frameworks, API and UI automation, and CI/CD integration. Experienced in performance optimization, strategic test planning, and leveraging AI-driven testing tools to improve test efficiency, coverage, and reliability.
 
 ---
 
