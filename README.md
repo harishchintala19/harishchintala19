@@ -15,7 +15,6 @@ QA/SDET Engineer with 4 years of experience in web, mobile, and device automatio
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
@@ -28,6 +27,7 @@ QA/SDET Engineer with 4 years of experience in web, mobile, and device automatio
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](#)
 [![Playwright](https://img.shields.io/badge/-Playwright-45BA63?style=flat-square&logo=playwright&logoColor=white)](#)
+[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](#)
 [![Appium](https://img.shields.io/badge/-Appium-663399?style=flat-square&logo=appium&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
@@ -51,8 +51,8 @@ QA/SDET Engineer with 4 years of experience in web, mobile, and device automatio
 ---
 
 ## 📊 GitHub Stats
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishchintala19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishchintala19&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harishchintala19&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harishchintala19&theme=radical)
 
 
 ## 📫 Let's Connect!
